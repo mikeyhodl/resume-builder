@@ -18,7 +18,7 @@
     "downloadjs": "^1.4.7",
     "gsap": "^3.2.6",
     "mongodb": "^3.6.6",
-    "next": "^10.1.2",
+    "next": "^12.1.0",
     "prettier": "^2.0.5",
     "puppeteer": "^8.0.0",
     "react": "16.13.1",
