@@ -47,7 +47,9 @@ npm run dev
 #### [Go to WTFresume website](https://wtfresume-sramezani.vercel.app/ "wtfresume")
 
 
+
 ### Contributing
 Yes of course! Welcome :)
 
+[meetline – your 1:1 meetings link](https://meetline.me/)
 
